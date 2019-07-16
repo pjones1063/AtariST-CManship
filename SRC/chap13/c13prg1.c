@@ -2,7 +2,7 @@
 /* CManship Example Source                     */
 /*      For the Atari ST 16/32 bit             */
 /*       Developed with Megamax C              */
-/*       & Lattice C for the Atari ST          */
+/*       & Laser C (on ST TOS 1.02 only)       */
 /*                                             */
 /* https://www.gnu.org/licenses/agpl-3.0.txt   */
 /*                                             */
