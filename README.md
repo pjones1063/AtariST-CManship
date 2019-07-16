@@ -1,6 +1,6 @@
 # AtariST-CManship
 
-Example Atari ST - Lattice C Source Code.
+Example Atari ST - C Source Code.
 
  #### Support and other inquiries can be made on our BBS at:   $ telnet 13leader.net 8023 or http://13leader.net
  
