@@ -6,9 +6,9 @@ Example Atari ST - Lattice C Source Code.
  
 Notes about compiling and running the exmaples
 
-  Magamax Laser C will only work correctly with Atari TOS 1.02.  TOS above 1.02 needs some type of missing patch program.
-  Paths may need to be reset in Options -> environment vars...
-  Exmaples and be compiled, linked and run.
+ - Magamax Laser C will only work correctly with Atari TOS 1.02.  TOS above 1.02 needs some type of missing patch program.
+ -  Paths may need to be reset in Options -> Environment vars... within Laser C
+ 
 
  
 
